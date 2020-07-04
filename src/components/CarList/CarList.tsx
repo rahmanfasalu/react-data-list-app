@@ -123,6 +123,10 @@ const CarListHeader = styled.header`
   ${Col} {
     text-transform: capitalize;
     padding: 10px;
+    .fa {
+      margin-left: 5px;
+      font-size: 20px;
+    }
   }
 `;
 

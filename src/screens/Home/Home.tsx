@@ -27,6 +27,10 @@ function Home(): JSX.Element {
 
   useEffect(() => {
     dispatch(loadCars());
+
+    return () => {
+      console.log("unmount");
+    };
   }, [dispatch]);
 
   useEffect(() => {
@@ -34,12 +38,20 @@ function Home(): JSX.Element {
       setCurrentPage(1);
       setFilteredCars(filterArray(cars, query) as CarType[]);
     }
+
+    return () => {
+      console.log("unmount");
+    };
   }, [cars, query]);
 
   useEffect(() => {
     setFilteredCars(filteredCars.sort(compareValues(sortKey, sortOrder)));
     getCarsForCurrentPage();
-  }, [sortKey, filteredCars, sortOrder]);
+
+    return () => {
+      console.log("unmount");
+    };
+  }, [sortKey, sortOrder]);
 
   useEffect(() => {
     if (filteredCars) {
@@ -47,6 +59,10 @@ function Home(): JSX.Element {
     } else {
       setCarsInCurrentPage([]);
     }
+
+    return () => {
+      console.log("unmount");
+    };
   }, [filteredCars, currentPage]);
 
   const getCarsForCurrentPage = () => {
@@ -56,6 +72,7 @@ function Home(): JSX.Element {
       filteredCars.slice(indexOfFirstCarsInPage, indexOfLastCarsInPage)
     );
   };
+
   return (
     <HomeWrapper>
       <SearchBox setQuery={setQuery} />

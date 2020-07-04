@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { RouteComponentProps, Link } from "react-router-dom";
+import { RouteComponentProps } from "react-router-dom";
+
 import styled from "styled-components";
 import { useSelector, useDispatch } from "react-redux";
 
@@ -31,7 +32,7 @@ function CarDetails({ match }: MatchProps): JSX.Element {
     <CarDetailsWrapper>
       {carDetail && <CarInfo car={carDetail} />}
       {!carDetail && <NotFound />}
-      <BackButton to="/cars">Back</BackButton>
+      <BackButton href="/cars">Back</BackButton>
     </CarDetailsWrapper>
   );
 }
@@ -41,7 +42,7 @@ const CarDetailsWrapper = styled.div`
   width: 100%;
 `;
 
-const BackButton = styled(Link)`
+const BackButton = styled.a`
   border-radius: 30px 30px 30px 0px;
   background: ${Theme.colors.primary};
   padding: 15px;
