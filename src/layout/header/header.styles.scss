@@ -1,0 +1,23 @@
+@import "../../theme/variables";
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: $header-bg;
+  height: 80px;
+
+  .menu {
+    position: relative;
+    .fa-user {
+      font-size: 45px;
+      color: #fff;
+      margin-top: 10px;
+      margin-left: 15px;
+    }
+    .logo {
+      width: 80px;
+      height: 80px;
+    }
+  }
+}
