@@ -1,6 +1,7 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router } from "react-router-dom";
 import Header from "./layout/header";
+import Footer from "./layout/footer";
 import { appRoutes } from "./routes";
 import BuildRoute from "./routes/BuildRoute";
 function App() {
@@ -9,6 +10,7 @@ function App() {
       <Router>
         <Header />
         <BuildRoute routes={appRoutes} />
+        <Footer />
       </Router>
     </>
   );

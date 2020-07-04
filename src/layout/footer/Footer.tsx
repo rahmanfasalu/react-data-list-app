@@ -1,35 +1,27 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
-import "./footer.styles.scss";
+import styled from "styled-components";
+import Theme from "../../theme/theme";
 
-const Footer = () => (
-  <div className="footer-container">
-    <NavLink to="/home/landing" activeClassName="active">
-      <div>
-        <i className="fa fa-home"></i>
-      </div>
-    </NavLink>
-    <NavLink to="/home/play">
-      <div>
-        <i className="fa fa-play-circle"></i>
-      </div>
-    </NavLink>
-    <NavLink to="/home/dashboard">
-      <div>
-        <i className="fa fa-list"></i>
-      </div>
-    </NavLink>
-    <NavLink to="/home/rewind">
-      <div>
-        <i className="fa fa-history"></i>
-      </div>
-    </NavLink>
-    <NavLink to="/home/catalog">
-      <div>
-        <i className="fa fa-book"></i>
-      </div>
-    </NavLink>
-  </div>
+const FooterContainer = styled.div`
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10px 0;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: ${Theme.colors.secondary};
+`;
+
+const P = styled.p`
+  font-family: ${Theme.font.paragraph};
+`;
+
+const Footer = (): JSX.Element => (
+  <FooterContainer>
+    <P>Copyright &copy; </P>
+  </FooterContainer>
 );
 
 export default Footer;

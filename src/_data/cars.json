@@ -1,0 +1,1812 @@
+[
+  {
+    "make": "Nissan",
+    "model": "Leaf 30kW ",
+    "year": 2017,
+    "licenseNumber": "EK35081",
+    "location": "Bergen",
+    "range": 250,
+    "numberOfSeats": 5,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! ",
+    "year": 2016,
+    "licenseNumber": "EK13715",
+    "location": "Bergen",
+    "range": 160,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Kia",
+    "model": "Soul Active 30kW",
+    "year": 2018,
+    "licenseNumber": "EK46426",
+    "location": "Bergen",
+    "range": 250,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up!",
+    "year": 2017,
+    "licenseNumber": "EV24220",
+    "location": "Bergen",
+    "range": 133,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! ",
+    "year": 2018,
+    "licenseNumber": "EV27726",
+    "location": "Bergen",
+    "range": 133,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up ",
+    "year": 2017,
+    "licenseNumber": "EK91099",
+    "location": "Bergen",
+    "range": 133,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Kia",
+    "model": "Soul Exclusive",
+    "year": 2019,
+    "licenseNumber": "EV74733",
+    "location": "Bergen",
+    "range": 200,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Kia",
+    "model": "Soul EV ",
+    "year": 2019,
+    "licenseNumber": "EV92328",
+    "location": "Bergen",
+    "range": 196,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Nissan",
+    "model": "Leaf ",
+    "year": 2018,
+    "licenseNumber": "EV68716",
+    "location": "Bergen",
+    "range": 280,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94 Ah",
+    "year": 2017,
+    "licenseNumber": "EK26466",
+    "location": "Oslo",
+    "range": 290,
+    "numberOfSeats": 5,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf ",
+    "year": 2018,
+    "licenseNumber": "EV35205",
+    "location": "Bergen",
+    "range": 219,
+    "numberOfSeats": 5,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf ",
+    "year": 2018,
+    "licenseNumber": "EV33235",
+    "location": "Bergen",
+    "range": 219,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! ",
+    "year": 2018,
+    "licenseNumber": "EV33224",
+    "location": "Stavanger",
+    "range": 133,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf ",
+    "year": 2018,
+    "licenseNumber": "EK81936",
+    "location": "Oslo",
+    "range": 300,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up!",
+    "year": 2018,
+    "licenseNumber": "EV33225",
+    "location": "Bergen",
+    "range": 160,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf",
+    "year": 2018,
+    "licenseNumber": "EV27738",
+    "location": "Bergen",
+    "range": 219,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Charged ",
+    "year": 2017,
+    "licenseNumber": "EK24101",
+    "location": "Stavanger",
+    "range": 290,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Tesla",
+    "model": "Model X 100D",
+    "year": 2019,
+    "licenseNumber": "EV76143",
+    "location": "Bergen",
+    "range": 600,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3 Long Range ",
+    "year": 2019,
+    "licenseNumber": "EV66049",
+    "location": "Bergen",
+    "range": 560,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3 Long Range ",
+    "year": 2019,
+    "licenseNumber": "EV66059",
+    "location": "Bergen",
+    "range": 560,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah ",
+    "year": 2019,
+    "licenseNumber": "EV92332",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah ",
+    "year": 2019,
+    "licenseNumber": "EV74728",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq EV ",
+    "year": 2019,
+    "licenseNumber": "EV47862",
+    "location": "Bergen",
+    "range": 280,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq Ev ",
+    "year": 2017,
+    "licenseNumber": "EV33223",
+    "location": "Bergen",
+    "range": 280,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up ",
+    "year": 2016,
+    "licenseNumber": "EK12692",
+    "location": "Oslo",
+    "range": 160,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq EV",
+    "year": 2019,
+    "licenseNumber": "EV81881",
+    "location": "Bergen",
+    "range": 280,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf",
+    "year": 2017,
+    "licenseNumber": "EV27725",
+    "location": "Bergen",
+    "range": 219,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Nissan",
+    "model": "e-NV200 ",
+    "year": 2019,
+    "licenseNumber": "EV43726",
+    "location": "Bergen",
+    "range": 200,
+    "numberOfSeats": 2,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Nissan",
+    "model": "e-NV200 ",
+    "year": 2019,
+    "licenseNumber": "EV41295",
+    "location": "Oslo",
+    "range": 300,
+    "numberOfSeats": 2,
+    "numberOfDoors": 3
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94Ah",
+    "year": 2017,
+    "licenseNumber": "EK19380",
+    "location": "Oslo",
+    "range": 250,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq EV",
+    "year": 2018,
+    "licenseNumber": "EV68713",
+    "location": "Bergen",
+    "range": 204,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq EV ",
+    "year": 2018,
+    "licenseNumber": "EK88951",
+    "location": "Oslo",
+    "range": 250,
+    "numberOfSeats": 5,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3 Long Range ",
+    "year": 2019,
+    "licenseNumber": "EV97934",
+    "location": "Bergen",
+    "range": 560,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Tesla",
+    "model": "Model 3 Long Range ",
+    "year": 2019,
+    "licenseNumber": "EV83057",
+    "location": "Bergen",
+    "range": 560,
+    "numberOfSeats": 0,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Tesla",
+    "model": "Model X 75D",
+    "year": 2017,
+    "licenseNumber": "EK56704",
+    "location": "Oslo",
+    "range": 410,
+    "numberOfSeats": 6,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up ",
+    "year": 2018,
+    "licenseNumber": "EK44550",
+    "location": "Bergen",
+    "range": 160,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Nissan",
+    "model": "e-NV200",
+    "year": 2019,
+    "licenseNumber": "EV53836",
+    "location": "Oslo",
+    "range": 300,
+    "numberOfSeats": 3,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq EV",
+    "year": 2019,
+    "licenseNumber": "EV47211",
+    "location": "Bergen",
+    "range": 204,
+    "numberOfSeats": 5,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf",
+    "year": 2015,
+    "licenseNumber": "EL62954",
+    "location": "Bergen",
+    "range": 190,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! ",
+    "year": 2017,
+    "licenseNumber": "EK18061",
+    "location": "Bergen",
+    "range": 133,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq EV",
+    "year": 2019,
+    "licenseNumber": "EV87208",
+    "location": "Bergen",
+    "range": 280,
+    "numberOfSeats": 5,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Nissan",
+    "model": "e-NV200 ",
+    "year": 2018,
+    "licenseNumber": "EV97614",
+    "location": "Bergen",
+    "range": 300,
+    "numberOfSeats": 2,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf",
+    "year": 2018,
+    "licenseNumber": "EK97376",
+    "location": "Bergen",
+    "range": 300,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW ",
+    "model": "i3 Charged",
+    "year": 2017,
+    "licenseNumber": "EK14108",
+    "location": "Bergen",
+    "range": 290,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up",
+    "year": 2018,
+    "licenseNumber": "EV35210",
+    "location": "Bergen",
+    "range": 160,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94 Ah",
+    "year": 2018,
+    "licenseNumber": "EK33230",
+    "location": "Bergen",
+    "range": 250,
+    "numberOfSeats": 5,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf ",
+    "year": 2019,
+    "licenseNumber": "EV68715",
+    "location": "Fornebu",
+    "range": 219,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB25941",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB25942",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB25939",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-UP! Range",
+    "year": 2020,
+    "licenseNumber": "EB37423",
+    "location": "Oslo",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120 Ah",
+    "year": 2020,
+    "licenseNumber": "EB25938",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-UP! Range",
+    "year": 2020,
+    "licenseNumber": "EB37421",
+    "location": "Oslo",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-UP! Range",
+    "year": 2020,
+    "licenseNumber": "EB40453",
+    "location": "Oslo",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up!",
+    "year": 2018,
+    "licenseNumber": "EV35204",
+    "location": "Bergen",
+    "range": 160,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen ",
+    "model": "e-Up!",
+    "year": 2018,
+    "licenseNumber": "EV35208",
+    "location": "Bergen",
+    "range": 133,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq EV ",
+    "year": 2019,
+    "licenseNumber": "EV47864",
+    "location": "Oslo",
+    "range": 204,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB36562",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Kia",
+    "model": "Soul EV ",
+    "year": 2019,
+    "licenseNumber": "EV47054",
+    "location": "Bergen",
+    "range": 250,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB36567",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf",
+    "year": 2019,
+    "licenseNumber": "EV27734",
+    "location": "Bergen",
+    "range": 219,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94 Ah",
+    "year": 2017,
+    "licenseNumber": "EK16382",
+    "location": "Bergen",
+    "range": 250,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB44393",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120 Ah",
+    "year": 2020,
+    "licenseNumber": "EB36561",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": " EB36565",
+    "location": "Oslo/Bergen/Stavanger",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB43168",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB44392",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-UP! Range",
+    "year": 2020,
+    "licenseNumber": "EB42639",
+    "location": "",
+    "range": 260,
+    "numberOfSeats": 0,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! Range",
+    "year": 2020,
+    "licenseNumber": "EB43870",
+    "location": "Oslo",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-UP! Range",
+    "year": 2020,
+    "licenseNumber": "EB42640",
+    "location": "",
+    "range": 260,
+    "numberOfSeats": 0,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB43158",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq EV ",
+    "year": 2018,
+    "licenseNumber": "EV33227",
+    "location": "Bergen",
+    "range": 204,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB43525",
+    "location": "Bergen",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! Range",
+    "year": 2020,
+    "licenseNumber": "EB37424",
+    "location": "Bergen",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! Range",
+    "year": 2020,
+    "licenseNumber": "EB29211",
+    "location": "Oslo",
+    "range": 258,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120 Ah",
+    "year": 2020,
+    "licenseNumber": "EB36559",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 0,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB36560",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB36556",
+    "location": "Oslo/Bergen/Stavanger",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volksvagen",
+    "model": "e-Up",
+    "year": 2017,
+    "licenseNumber": "EK51046",
+    "location": "Bergen",
+    "range": 133,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! Range",
+    "year": 2020,
+    "licenseNumber": "EB37422",
+    "location": "",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB25955",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120ah",
+    "year": 2020,
+    "licenseNumber": "EB25952",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120 Ah",
+    "year": 2020,
+    "licenseNumber": "EB25950",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120 Ah",
+    "year": 2020,
+    "licenseNumber": "EB32369",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB32370",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94Ah",
+    "year": 2017,
+    "licenseNumber": "EK49464",
+    "location": "Bergen",
+    "range": 250,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB30936",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB30937",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB32371",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB44395",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged ",
+    "year": 2020,
+    "licenseNumber": "EB43176",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-UP! Range",
+    "year": 2020,
+    "licenseNumber": "EB43869",
+    "location": "",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120 Ah Charge",
+    "year": 2020,
+    "licenseNumber": "EB44391",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 0,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB44394",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB43173",
+    "location": "Oslo/Bergen/Stavanger",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Skoda",
+    "model": "CITIGOe IV",
+    "year": 2020,
+    "licenseNumber": "EB31774",
+    "location": "Oslo",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Seat",
+    "model": "Mii Electric ",
+    "year": 2020,
+    "licenseNumber": "EB37623",
+    "location": "Oslo, Bergen og Stavanger",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB25949",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up",
+    "year": 2018,
+    "licenseNumber": "EV95793",
+    "location": "Oslo",
+    "range": 160,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up!",
+    "year": 2017,
+    "licenseNumber": "EK31692",
+    "location": "Bergen",
+    "range": 160,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up",
+    "year": 2017,
+    "licenseNumber": "EK19388",
+    "location": "Oslo",
+    "range": 160,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Nissan",
+    "model": "e-NV200 ",
+    "year": 2018,
+    "licenseNumber": "EK97749",
+    "location": "Bergen",
+    "range": 300,
+    "numberOfSeats": 2,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW ",
+    "model": "i3 120Ah",
+    "year": 2019,
+    "licenseNumber": "EV83634",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah ",
+    "year": 2019,
+    "licenseNumber": "EV88380",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah",
+    "year": 2020,
+    "licenseNumber": "EB25940",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94Ah",
+    "year": 2017,
+    "licenseNumber": "EK29003",
+    "location": "Bergen",
+    "range": 250,
+    "numberOfSeats": 0,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB49864",
+    "location": "Norge",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB49865",
+    "location": "Norge",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB46915",
+    "location": "Norge",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB44225",
+    "location": "",
+    "range": 263,
+    "numberOfSeats": 5,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB46914",
+    "location": "Norge",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Seat",
+    "model": "Mii Electric ",
+    "year": 2020,
+    "licenseNumber": "EB37631",
+    "location": "Norge",
+    "range": 259,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Hyundai",
+    "model": "Ioniq EV",
+    "year": 2019,
+    "licenseNumber": "EV81884",
+    "location": "Bergen",
+    "range": 204,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB50270",
+    "location": "Bergen",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "MG",
+    "model": "EV ZS Luxury",
+    "year": 2020,
+    "licenseNumber": "EB48407",
+    "location": "Bergen",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Seat",
+    "model": "Mii Electric ",
+    "year": 2020,
+    "licenseNumber": "EB37632",
+    "location": "Norge",
+    "range": 259,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf ",
+    "year": 2018,
+    "licenseNumber": "EV33228",
+    "location": "Bergen",
+    "range": 219,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Seat",
+    "model": "Mii Electric",
+    "year": 2020,
+    "licenseNumber": "EB37622",
+    "location": "Norge",
+    "range": 259,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Nissan",
+    "model": "e-NV200 ",
+    "year": 2020,
+    "licenseNumber": "EB35069",
+    "location": "Trondheim",
+    "range": 0,
+    "numberOfSeats": 2,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Seat",
+    "model": "Mii Electric",
+    "year": 2020,
+    "licenseNumber": "EB37634",
+    "location": "Norge",
+    "range": 259,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB46902",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Comfort",
+    "year": 2020,
+    "licenseNumber": " EB33121",
+    "location": "Bergen, Stavanger og Oslo",
+    "range": 260,
+    "numberOfSeats": 0,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Nissan",
+    "model": "e-NV200 ",
+    "year": 2020,
+    "licenseNumber": "eb45110",
+    "location": "Oslo",
+    "range": 0,
+    "numberOfSeats": 2,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Nissan",
+    "model": "e-NV200 ",
+    "year": 2020,
+    "licenseNumber": "EB45108",
+    "location": "Oslo",
+    "range": 0,
+    "numberOfSeats": 2,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Nissan",
+    "model": "e-NV200 ",
+    "year": 2020,
+    "licenseNumber": "EB45109",
+    "location": "Oslo",
+    "range": 0,
+    "numberOfSeats": 2,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Nissan",
+    "model": "e-NV200 ",
+    "year": 2020,
+    "licenseNumber": "EB35070",
+    "location": "Oslo",
+    "range": 0,
+    "numberOfSeats": 2,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf ",
+    "year": 2018,
+    "licenseNumber": "EV12699",
+    "location": "Bergen",
+    "range": 219,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! Range",
+    "year": 2020,
+    "licenseNumber": "EB48457",
+    "location": "Bergen",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94 Ah",
+    "year": 2017,
+    "licenseNumber": "EK28038",
+    "location": "Norge",
+    "range": 250,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "I3 94 Ah",
+    "year": 2017,
+    "licenseNumber": "EK28051",
+    "location": "Oslo",
+    "range": 250,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94Ah ",
+    "year": 2017,
+    "licenseNumber": "EK29008",
+    "location": "Oslo",
+    "range": 250,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94 Ah",
+    "year": 2017,
+    "licenseNumber": "EK30845",
+    "location": "Bergen",
+    "range": 250,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Seat",
+    "model": "Mii Electric",
+    "year": 2020,
+    "licenseNumber": "EB37633",
+    "location": "Norge",
+    "range": 259,
+    "numberOfSeats": 0,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB33124",
+    "location": "Norge",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "EV ZS Luxury ",
+    "year": 2020,
+    "licenseNumber": "EB44227",
+    "location": "",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB44224",
+    "location": "Norge",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "EV ZS Luxury ",
+    "year": 2020,
+    "licenseNumber": "EB44226",
+    "location": "",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-UP! Range",
+    "year": 2020,
+    "licenseNumber": "EB42638",
+    "location": "Norge",
+    "range": 260,
+    "numberOfSeats": 0,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Seat",
+    "model": "Mii Electric",
+    "year": 2020,
+    "licenseNumber": "EB37626",
+    "location": "Norge",
+    "range": 259,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury ",
+    "year": 2020,
+    "licenseNumber": "EB48303",
+    "location": "",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB48403",
+    "location": "Bergen",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120 Ah",
+    "year": 2019,
+    "licenseNumber": "EB36563",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB46910",
+    "location": "Norge",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Seat",
+    "model": "Mii Electric ",
+    "year": 2020,
+    "licenseNumber": "EB37560",
+    "location": "Norge",
+    "range": 259,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Golf (SPZ)",
+    "year": 2018,
+    "licenseNumber": "EK76140",
+    "location": "Norge",
+    "range": 229,
+    "numberOfSeats": 5,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Nissan",
+    "model": "Leaf Tekna 62kW (SPZ)",
+    "year": 2019,
+    "licenseNumber": "EB29320",
+    "location": "Norge",
+    "range": 385,
+    "numberOfSeats": 5,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94 Ah",
+    "year": 2017,
+    "licenseNumber": "EK16018",
+    "location": "Bergen",
+    "range": 250,
+    "numberOfSeats": 5,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Comfort ",
+    "year": 2020,
+    "licenseNumber": "EB43517",
+    "location": "Bergen",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB36557",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB43174",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Volvo",
+    "model": "XC90 (SV81373)",
+    "year": 2018,
+    "licenseNumber": "SV81373",
+    "location": "Bergen",
+    "range": 0,
+    "numberOfSeats": 7,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Tesla ",
+    "model": "Model S 75D",
+    "year": 2018,
+    "licenseNumber": "EK47143",
+    "location": "",
+    "range": 450,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB46909",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 94Ah (SPZ)",
+    "year": 2018,
+    "licenseNumber": "EK73035",
+    "location": "Norge",
+    "range": 250,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "SEAT",
+    "model": "Mii Electric",
+    "year": 2020,
+    "licenseNumber": "EB37650",
+    "location": "Oslo",
+    "range": 259,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3s 94Ah (SPZ)",
+    "year": 2018,
+    "licenseNumber": "EV31368",
+    "location": "Norge",
+    "range": 250,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120Ah Fully Charged (SPZ)",
+    "year": 2019,
+    "licenseNumber": "EV41482",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Seat",
+    "model": "Mii Electric",
+    "year": 2020,
+    "licenseNumber": "EB37624",
+    "location": "Norge",
+    "range": 259,
+    "numberOfSeats": 0,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "I3 120 Ah ",
+    "year": 2020,
+    "licenseNumber": "EB46912",
+    "location": "Oslo",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Skoda",
+    "model": "CITIGOe IV",
+    "year": 2020,
+    "licenseNumber": "EB40843",
+    "location": "",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB50269",
+    "location": "Bergen",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! Range",
+    "year": 2020,
+    "licenseNumber": "EB48456",
+    "location": "Oslo",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Volkswagen",
+    "model": "e-Up! Range",
+    "year": 2020,
+    "licenseNumber": "EB48455",
+    "location": "",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120 Ah",
+    "year": 2020,
+    "licenseNumber": "EB44408",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB36566",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Skoda",
+    "model": "CITIGOe IV",
+    "year": 2020,
+    "licenseNumber": "EB40842",
+    "location": "Bergen",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "SEAT",
+    "model": "Mii Electric",
+    "year": 2020,
+    "licenseNumber": "EB37625",
+    "location": "Oslo",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB49874",
+    "location": "Oslo",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120 Ah",
+    "year": 2020,
+    "licenseNumber": "EB43177",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "BMW",
+    "model": "i3 120 Ah",
+    "year": 2020,
+    "licenseNumber": "EB44407",
+    "location": "",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW ",
+    "model": "i3 120ah",
+    "year": 2020,
+    "licenseNumber": "EB25953",
+    "location": "Bergen",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB46913",
+    "location": "Norge",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "BMW",
+    "model": "i3 Fully Charged",
+    "year": 2020,
+    "licenseNumber": "EB46908",
+    "location": "Norge",
+    "range": 310,
+    "numberOfSeats": 4,
+    "numberOfDoors": 5
+  },
+  {
+    "make": "Skoda",
+    "model": "CITIGOe Style ",
+    "year": 2020,
+    "licenseNumber": "EB43833",
+    "location": "Bergen",
+    "range": 260,
+    "numberOfSeats": 4,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB49868",
+    "location": "",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB49875",
+    "location": "Oslo",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Honda",
+    "model": "e",
+    "year": 2020,
+    "licenseNumber": "EB50692",
+    "location": "Norge",
+    "range": 220,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "Honda",
+    "model": "e",
+    "year": 2020,
+    "licenseNumber": "EB50693",
+    "location": "Norge",
+    "range": 220,
+    "numberOfSeats": 4,
+    "numberOfDoors": 4
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxry",
+    "year": 2020,
+    "licenseNumber": "EB47563",
+    "location": "Norge",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "MG",
+    "model": "ZS EV Luxury",
+    "year": 2020,
+    "licenseNumber": "EB47564",
+    "location": "Norge",
+    "range": 260,
+    "numberOfSeats": 5,
+    "numberOfDoors": 0
+  },
+  {
+    "make": "Nissan",
+    "model": "Leaf 62kW (SPZ)",
+    "year": 2020,
+    "licenseNumber": "EB29322",
+    "location": "Bergen",
+    "range": 385,
+    "numberOfSeats": 5,
+    "numberOfDoors": 5
+  }
+]
