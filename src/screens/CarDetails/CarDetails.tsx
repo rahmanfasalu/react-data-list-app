@@ -30,9 +30,9 @@ function CarDetails({ match }: MatchProps): JSX.Element {
 
   return (
     <CarDetailsWrapper>
+      <BackButton href="/cars">Back</BackButton>
       {carDetail && <CarInfo car={carDetail} />}
       {!carDetail && <NotFound />}
-      <BackButton href="/cars">Back</BackButton>
     </CarDetailsWrapper>
   );
 }
@@ -46,7 +46,7 @@ const BackButton = styled.a`
   border-radius: 30px 30px 30px 0px;
   background: ${Theme.colors.primary};
   padding: 15px;
-  margin: 0 auto;
+  margin-left: 25px;
   display: block;
   margin-top: 32px;
   width: 50px;

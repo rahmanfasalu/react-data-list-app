@@ -1,11 +1,12 @@
 import React from "react";
 import { useHistory } from "react-router-dom";
 import styled from "styled-components";
+
 import Theme from "../../theme/theme";
 import { CarType } from "../../interfaces/car.type";
-
 import { formateTitle } from "../../util/carListUtil";
-
+import useWindowDimensions from "../../hooks/useWindowDimensions";
+import CarListMobile from "../CarListMobile/CarListMobile";
 interface CarListType {
   cars: CarType[];
   sortOrder: string;
@@ -26,6 +27,7 @@ function CarList({
   setSortOrder,
 }: CarListType): JSX.Element {
   const history = useHistory();
+  const { width } = useWindowDimensions();
   const handleClick = (key: string) => {
     if (key === sortKey) {
       sortOrder === "asc" ? setSortOrder("desc") : setSortOrder("asc");
@@ -36,45 +38,51 @@ function CarList({
 
   return (
     <CarListWrapper>
-      <CarListHeader>
-        {[
-          "make",
-          "model",
-          "year",
-          "licenseNumber",
-          "location",
-          "range",
-          "numberOfSeats",
-          "numberOfDoors",
-        ].map((key) => {
-          return (
-            <Col
-              key={key}
-              onClick={(e) => {
-                handleClick(key);
-              }}
-            >
-              {formateTitle(key)}
-              {sortKey === key ? (
-                sortOrder === "asc" ? (
-                  <i className="fa fa-sort-down"></i>
-                ) : (
-                  <i className="fa fa-sort-up"></i>
-                )
-              ) : (
-                ""
-              )}
-            </Col>
-          );
-        })}
-      </CarListHeader>
-      <CarListSection>
-        {cars.map(
-          (car: CarType): JSX.Element => {
-            return CarRow(car, history);
-          }
-        )}
-      </CarListSection>
+      {width > 550 && (
+        <>
+          <CarListHeader>
+            {[
+              "make",
+              "model",
+              "year",
+              "licenseNumber",
+              "location",
+              "range",
+              "numberOfSeats",
+              "numberOfDoors",
+            ].map((key) => {
+              return (
+                <Col
+                  key={key}
+                  onClick={(e) => {
+                    handleClick(key);
+                  }}
+                >
+                  {formateTitle(key)}
+                  {sortKey === key ? (
+                    sortOrder === "asc" ? (
+                      <i className="fa fa-sort-down"></i>
+                    ) : (
+                      <i className="fa fa-sort-up"></i>
+                    )
+                  ) : (
+                    ""
+                  )}
+                </Col>
+              );
+            })}
+          </CarListHeader>
+          <CarListSection>
+            {cars.map(
+              (car: CarType): JSX.Element => {
+                return CarRow(car, history);
+              }
+            )}
+          </CarListSection>
+        </>
+      )}
+
+      {width < 550 && <CarListMobile cars={cars} />}
     </CarListWrapper>
   );
 }

@@ -28,9 +28,7 @@ function Home(): JSX.Element {
   useEffect(() => {
     dispatch(loadCars());
 
-    return () => {
-      console.log("unmount");
-    };
+    return () => {};
   }, [dispatch]);
 
   useEffect(() => {
@@ -39,18 +37,14 @@ function Home(): JSX.Element {
       setFilteredCars(filterArray(cars, query) as CarType[]);
     }
 
-    return () => {
-      console.log("unmount");
-    };
+    return () => {};
   }, [cars, query]);
 
   useEffect(() => {
     setFilteredCars(filteredCars.sort(compareValues(sortKey, sortOrder)));
     getCarsForCurrentPage();
 
-    return () => {
-      console.log("unmount");
-    };
+    return () => {};
   }, [sortKey, sortOrder]);
 
   useEffect(() => {
@@ -60,9 +54,7 @@ function Home(): JSX.Element {
       setCarsInCurrentPage([]);
     }
 
-    return () => {
-      console.log("unmount");
-    };
+    return () => {};
   }, [filteredCars, currentPage]);
 
   const getCarsForCurrentPage = () => {
@@ -78,6 +70,7 @@ function Home(): JSX.Element {
       <SearchBox setQuery={setQuery} />
       {filteredCars && filteredCars.length > 0 && (
         <>
+          <TotalResults>{`${filteredCars.length} cars loaded`}</TotalResults>
           <CarList
             cars={carsInCurrentPage}
             setSortKey={setSortKey}
@@ -102,6 +95,10 @@ function Home(): JSX.Element {
 const HomeWrapper = styled.div`
   height: 100%;
   width: 100%;
+`;
+
+const TotalResults = styled.p`
+  text-align: center;
 `;
 
 export default Home;

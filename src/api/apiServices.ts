@@ -1,4 +1,4 @@
-import { handleResponse, handleError } from "./apiUtils";
+// import { handleResponse, handleError } from "./apiUtils";
 import data from "../_data/cars.json";
 import { CarType } from "../interfaces/car.type";
 
