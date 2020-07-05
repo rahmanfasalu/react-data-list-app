@@ -57,6 +57,7 @@ const PaginationContainer = styled.ul`
   justify-content: center;
   position: fixed;
   bottom: 65px;
+  flex-wrap: wrap;
 `;
 
 const PageNumber = styled.li<PageNumberProps>`
