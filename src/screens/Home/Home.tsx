@@ -22,7 +22,7 @@ function Home(): JSX.Element {
   const [carsInCurrentPage, setCarsInCurrentPage] = useState<CarType[]>([]);
 
   const cars = useSelector((state: AppStateType) => {
-    return state.cars;
+    return state.cars.sort(compareValues(sortKey, sortOrder));
   });
 
   useEffect(() => {
@@ -43,7 +43,6 @@ function Home(): JSX.Element {
   useEffect(() => {
     setFilteredCars(filteredCars.sort(compareValues(sortKey, sortOrder)));
     getCarsForCurrentPage();
-
     return () => {};
   }, [sortKey, sortOrder]);
 
