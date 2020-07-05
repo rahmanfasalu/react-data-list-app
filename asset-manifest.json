@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/react-data-list-app/static/js/main.32536ed3.chunk.js",
+    "main.js.map": "/react-data-list-app/static/js/main.32536ed3.chunk.js.map",
+    "runtime-main.js": "/react-data-list-app/static/js/runtime-main.f7479d1b.js",
+    "runtime-main.js.map": "/react-data-list-app/static/js/runtime-main.f7479d1b.js.map",
+    "static/css/2.8ebc772a.chunk.css": "/react-data-list-app/static/css/2.8ebc772a.chunk.css",
+    "static/js/2.e5c3886a.chunk.js": "/react-data-list-app/static/js/2.e5c3886a.chunk.js",
+    "static/js/2.e5c3886a.chunk.js.map": "/react-data-list-app/static/js/2.e5c3886a.chunk.js.map",
+    "index.html": "/react-data-list-app/index.html",
+    "precache-manifest.630be1ebf195714296c389f28a4a81d5.js": "/react-data-list-app/precache-manifest.630be1ebf195714296c389f28a4a81d5.js",
+    "service-worker.js": "/react-data-list-app/service-worker.js",
+    "static/css/2.8ebc772a.chunk.css.map": "/react-data-list-app/static/css/2.8ebc772a.chunk.css.map",
+    "static/js/2.e5c3886a.chunk.js.LICENSE.txt": "/react-data-list-app/static/js/2.e5c3886a.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/react-data-list-app/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo.svg": "/react-data-list-app/static/media/logo.165a59db.svg",
+    "static/media/open-sans-v17-latin-regular.woff2": "/react-data-list-app/static/media/open-sans-v17-latin-regular.33543c5c.woff2",
+    "static/media/open-sans-v17-latin-regular.woff": "/react-data-list-app/static/media/open-sans-v17-latin-regular.de0869e3.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7479d1b.js",
+    "static/css/2.8ebc772a.chunk.css",
+    "static/js/2.e5c3886a.chunk.js",
+    "static/js/main.32536ed3.chunk.js"
+  ]
+}
